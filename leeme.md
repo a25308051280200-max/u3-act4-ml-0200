@@ -21,13 +21,13 @@
 # Leer los datos desde el archivo CSV
 ![alt text](image-6.png)
 # primero y ultimo registro 
-![alt text](image-19.png)
+![alt text](image-18.png)
 # 6. Dimensiones y estructura
-![alt text](image-20.png)
+![alt text](image-19.png)
 # 7. Estadísticas y limpieza
-![alt text](image-21.png)
+![-](image-20.png)
 # 8 y 9 Ordenamiento, filtrado y agrupación
-![alt text](image-10.png)
+![alt text](image-21.png)
 ![alt text](image-22.png)
 # 18. Gráfica de barras 
 ![alt text](image-12.png)
